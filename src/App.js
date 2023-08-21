@@ -21,7 +21,7 @@ export default function App() {
       <Content />
       <div
         className="dog"
-      style={{ background: `url(${img==true ? dog2 : dog})`}}
+      style={{ background: `url(${img===true ? dog2 : dog})`}}
       ></div>
       <p
         style={{
