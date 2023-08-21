@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+  background-color: #fde3d9;
+  background-size: 100% 100%;
+}
+.nav {
+  display: flex;
+}
+.navbtn p {
+  margin-right: 12px;
+}
+.content {
+  position: absolute;
+  bottom: 23px;
+  width: 40%;
+}
+.content h3 {
+  font-size: 22px;
+}
+.explain {
+  font-size: 12px;
+}
+.dogimg {
+  height: 60vh;
+}
+.dog {
+  width: 50%;
+  height: 100vh;
+  position: absolute;
+  right: 23px;
+}
